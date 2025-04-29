@@ -2,7 +2,7 @@
 
 Where Sphinx meets Sphincter - The Bottom Line in Riddles
 
-![Demo Site](https://lwalker.me/sphinxster/index.html)
+[![Screenshot](img/index_screenshot.png)](https://lwalker.me/sphinxster/index.html)
 
 Ever thought the ancient Sphinx's riddles needed more posterior humor? Neither did we, until now! 
 
